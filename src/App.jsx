@@ -11,7 +11,7 @@ import { AppContainer } from "./Styles/Container.style";
 import AboutPage from "./Pages/About";
 import Contact from "./Pages/Contact";
 import Navbar from "./Components/Navbar";
-
+//git lad
 function App() {
 	return (
 		<>
